@@ -13,7 +13,7 @@ Our code is partially based on the following works:
 - [QFESTA-SageMath](https://github.com/hiroshi-onuki/QFESTA-SageMath/tree/main) by [Hiroshi-Kohei](https://link.springer.com/chapter/10.1007/978-3-031-68388-6_4).
 - [Learning-to-SQI](https://github.com/LearningToSQI/SQISign-SageMath) by [Corte-Real Santos-Pope](https://learningtosqi.github.io/).
 
-**Note:** Significant modifications were required to efficiently implement SQIPrime. For instance, we adapted the code from [Theta-Sagemath](https://github.com/ThetaIsogenies/two-isogenies) to work over supersingular elliptic curves defined over $\mathbb{F}_{p^4}$. This allows for efficient evaluation of points $ P \in E $ whose order divides either $ p-1 $ or $ p+1 $.
+**Note:** Significant modifications were required to efficiently implement SQIPrime. For instance, we adapted the code from [Theta-Sagemath](https://github.com/ThetaIsogenies/two-isogenies) to work over supersingular elliptic curves defined over $\mathbb{F}_{p^4}$. This allows for efficient evaluation of points  $P \in E$ whose order divides either $p-1$ or $p+1$.
 
 ## Usage
 
